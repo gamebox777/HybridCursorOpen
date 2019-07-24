@@ -1,0 +1,7 @@
+Project/Library
+Project/Obj
+Project/Logs
+Project/.vs
+Project/*.csproj
+Project/Temp
+*.sln
